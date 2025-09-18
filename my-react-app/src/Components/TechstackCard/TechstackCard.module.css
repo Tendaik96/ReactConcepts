@@ -1,0 +1,20 @@
+.card{
+padding: 30px 0px;
+width: 200px;
+color: #fff;
+outline: solid 1px #000;
+border-radius: 10px;
+background-color: #31243A;
+text-align: center;
+cursor: pointer;
+transition: all 2s ease;
+font-weight: bold;
+}
+
+.card:hover{
+
+/* outline: #A128F7;
+ */box-shadow: -5px -5px 30px 5px red, 5px 5px 30px 5px blue;
+transition: all 200ms ease;
+color: #A128F7;
+}
