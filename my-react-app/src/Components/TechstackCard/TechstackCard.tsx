@@ -6,5 +6,5 @@ type NameProps = {
 
 
 export default function TechstackCard({name}: NameProps) {
-    return <div className={styles.card}>{name}</div>;
+  return <div className={styles.card}>{name}</div>;
 }
