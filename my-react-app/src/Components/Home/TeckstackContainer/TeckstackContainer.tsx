@@ -1,4 +1,4 @@
-import TechstackCard from '../TechstackCard/TechstackCard';
+import TechstackCard from './TechstackCard/TechstackCard';
 import styles from './TeckstackContainer.module.css'
 
 export default function TeckstackContainer() {

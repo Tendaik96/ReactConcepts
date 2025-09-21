@@ -134,3 +134,6 @@
 ├────────────────────────────┤
 │         useImperativeHandle│ → Expose custom ref methods
 └────────────────────────────┘
+
+### React Routing
+`npm install react-router-dom`
