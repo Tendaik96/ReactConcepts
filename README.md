@@ -8,3 +8,13 @@ Move into that file:
 
 Start the terminal:
 `npm start`
+
+
+ts commans in the terminal
+`npx tsc`
+
+`tsc --init`
+  Creates a tsconfig.json with the recommended settings in the working directory.
+
+  download types:
+  `npm i --save-dev @types/react`

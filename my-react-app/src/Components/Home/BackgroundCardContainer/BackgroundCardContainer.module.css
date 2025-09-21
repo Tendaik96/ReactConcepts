@@ -1,0 +1,14 @@
+.cardContainer{
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  justify-content: center;
+  overflow: hidden;
+  flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.cardContainer > div {
+  flex: 0 0 calc(8% - 1rem); /* 10 items per row minus gap */
+}
