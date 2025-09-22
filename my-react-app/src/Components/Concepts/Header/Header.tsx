@@ -1,3 +1,4 @@
+import Menu from '../Menu/Menu';
 import styles from './Header.module.css'
 
 export default function 
@@ -9,12 +10,7 @@ export default function
           <h3 className={styles.heading}>Code Concepts</h3>
         </div>
 
-            <div className={styles.conceptsTechstack}>
-          <h4>Javascript</h4>
-          <h4>React</h4>
-          <h4>NodeJS</h4>
-          <h4>CSS</h4>
-        </div>
+       <Menu/>
       </div>
     );
 }

@@ -1,0 +1,45 @@
+/* TESCHSTACK CONCEPTS HEADINGS */
+.conceptsTechstack{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    gap: 10px;
+    width: 300px;
+margin-left: 5vw;
+}
+
+.selected{
+    color: pink;
+}
+
+.unselected{
+    color: white;
+}
+
+.selected, .unselected{
+    cursor: pointer;
+    font-size: 1.3rem;
+}
+  
+
+.openReact{
+    height: 200px;
+    background-color: red;
+    transition: height 1s ease;
+    list-style: none;
+}
+
+.openReact > li:hover{
+    color: green;
+    cursor: pointer;
+    transition: color 500ms ease;
+
+}
+
+.closeReact{
+    height: 0;
+        transition: height 1s ease;
+            list-style: none;
+
+
+}

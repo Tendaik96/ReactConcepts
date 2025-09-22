@@ -25,11 +25,3 @@
   font-style: normal;
 }
 
-/* TESCHSTACK CONCEPTS HEADINGS */
-.conceptsTechstack{
-    display: flex;
-    flex-direction: row;
-    align-items: centre;
-    color:white;
-    gap: 50px;
-}
