@@ -22,8 +22,8 @@ export default function Menu() {
         <li> Code Splitting & Lazy Loading</li>
         <li>Redux Toolkit / Zustand</li>
       </ul>
-      {/*           <h4>Javascript</h4>
-          <h4>React</h4>
+      {/*           
+      <h4>Javascript</h4>
           <h4>NodeJS</h4>
           <h4>CSS</h4>
  */}{" "}
