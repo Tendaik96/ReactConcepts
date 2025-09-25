@@ -4,6 +4,8 @@
     width: 100%;
     background-color: #000;
     margin-bottom: 10vh;
+    cursor: pointer;
+
 }
 
 .headingContainer > :last-child{
